@@ -1,0 +1,46 @@
+
+body{
+	font-size: 16px;
+	margin: 0px;
+	
+}
+
+#nav{
+	background-color: #806D15;
+	margin: 0px;
+}
+
+
+
+#nav-list{
+	list-style-type: none;
+	padding: 0px;
+	margin: 0px;
+}
+
+#nav-list li{
+	/*float: left;*/
+	display: inline-block;
+	margin-right: 10px;
+	
+}
+
+li,a{
+	display: block;
+}
+
+
+a{
+	padding: 10px;
+	text-decoration: none;
+	color: black;
+}
+
+#image{
+	background-image: url(coding.jpg);
+	background-size:cover;
+	background-position: center center;
+	padding-top: 300px;
+	padding-bottom: 300px;
+
+}

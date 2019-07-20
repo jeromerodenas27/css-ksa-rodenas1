@@ -1,0 +1,17 @@
+#box1{
+	border-radius: 5px;
+	border-style: solid;
+	border-color: black;
+}
+
+#box2{
+	border-radius: 5px;
+	border-style: solid;
+	border-color: blue;
+
+}
+
+p {
+	font-size: 2rem;
+	font-family: 'Geostar', sans-serif;
+}
